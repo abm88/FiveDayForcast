@@ -1,6 +1,6 @@
 # FiveDayForcast
 
-Compilation instructions:
+Compilation instructions:<br>
 Clone project
 To substitute own API key, use Constants.java 
 Build and Run
