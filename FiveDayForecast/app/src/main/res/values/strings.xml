@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FiveDayForecast</string>
+    
+    <string name="wind_speed">Wind Speed: %1$sKM/S</string>
+    <string name="cloud_percentage">Clouds: %1$d%%</string>
+
+    <string name="try_again_text">Oops! It seems there is a problem with your Internet connection, Please tap this message to try again</string>
+</resources>
